@@ -136,17 +136,17 @@ to {background-color:rgba(170,170,170,1);}
 
 @-moz-keyframes fondo {
 	from {background-color:rgba(255, 255, 255,1);}
-to {background-color:rgba(255, 215, 34,1);}
+to {background-color:rgba(170,170,170,1);}
 }
 
 @-ms-keyframes fondo {
 		from {background-color:rgba(255, 255, 255,1);}
-	to {background-color:rgba(255, 215, 34,1);}
+	to {background-color:rgba(170,170,170,1);}
 }
 
 @keyframes fondo {
 	from {background-color:rgba(255, 255, 255,1);}
-to {background-color:rgba(255, 215, 34,1);}
+to {background-color:rgba(170,170,170,1);}
 }
 
 .item {
