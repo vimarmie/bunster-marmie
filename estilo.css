@@ -33,7 +33,7 @@ header{
 	color:white;
 	}
 
-header svg{height: 150px; width:auto;}
+header svg{height: 200px; width:auto;}
 
 @media screen and (max-width: 980px){
 	/*En caso que la pantalla no alcance el ancho de 980px… */
